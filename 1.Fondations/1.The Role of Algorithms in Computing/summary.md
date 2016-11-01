@@ -3,3 +3,7 @@
 ## 1.1 Algorithms
 * sequence of computational step that transform the input into the ouput
 * `Data Structures`: No single data structure works well for all purposes, and so it is important to know the strengths and limitations of several of them
+* `Hard problems`
+	* NP-complete problem has ever been found, nobody has ever proven that an efficient algorithm for one cannot exist.
+	* You should know about NP-complete problems because some of them arise surprisingly often in real applications. If you can show that the problem is NP-complete, you can instead spend your time developing an efficient algorithm that gives a good, but not the best possible, solution.
+	* `traveling-salesman problem` is NP-complete. 
